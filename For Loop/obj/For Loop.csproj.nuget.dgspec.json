@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Winston\\Desktop\\Projects\\Project\\For Loop\\For Loop.csproj": {}
+    "C:\\Users\\Winston\\Desktop\\ForLoop Sonny\\For Loop\\For Loop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Winston\\Desktop\\Projects\\Project\\For Loop\\For Loop.csproj": {
+    "C:\\Users\\Winston\\Desktop\\ForLoop Sonny\\For Loop\\For Loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Winston\\Desktop\\Projects\\Project\\For Loop\\For Loop.csproj",
+        "projectUniqueName": "C:\\Users\\Winston\\Desktop\\ForLoop Sonny\\For Loop\\For Loop.csproj",
         "projectName": "For Loop",
-        "projectPath": "C:\\Users\\Winston\\Desktop\\Projects\\Project\\For Loop\\For Loop.csproj",
+        "projectPath": "C:\\Users\\Winston\\Desktop\\ForLoop Sonny\\For Loop\\For Loop.csproj",
         "packagesPath": "C:\\Users\\Winston\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Winston\\Desktop\\Projects\\Project\\For Loop\\obj\\",
+        "outputPath": "C:\\Users\\Winston\\Desktop\\ForLoop Sonny\\For Loop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Winston\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 101; i++)
+            for (int i = 1; i < 101; i++)
             {
-                Console.WriteLine("value of i: {0}", i);
+                Console.WriteLine(i);
             }
         }
     }
